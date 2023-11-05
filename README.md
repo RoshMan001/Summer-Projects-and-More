@@ -13,3 +13,11 @@ Technologies Used: Python
 
 Usage instructions: Follow directions to progress through the program and enter the food you ate along with the calories. Happy Tracking!
 
+Project 2: To-Do List
+
+Description: To-do list to track daily activities which is saved concurrently
+
+Technologies Used: HTML, CSS, Javascript
+
+Usage instructions: Follow directions to add, delete, check, and uncheck items!
+
